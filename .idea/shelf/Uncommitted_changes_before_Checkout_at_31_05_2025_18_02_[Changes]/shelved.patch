@@ -1,0 +1,15 @@
+Index: app/views.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>121
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/app/views.py b/app/views.py
+--- a/app/views.py	(revision b34bf6c758103a1fd6ec19d81793452382feb726)
++++ b/app/views.py	(date 1748696492283)
+@@ -1,1 +1,1 @@
+-121
+\ No newline at end of file
++1213
+\ No newline at end of file
